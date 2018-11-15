@@ -1,0 +1,1 @@
+def random_number_file_create(min, max, filename, entries): 
